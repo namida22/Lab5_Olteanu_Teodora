@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Clion_Projects/OOP/Laborator5/src/domain/Film.h
+iostream
+-
+
+E:/Clion_Projects/OOP/Laborator5/src/repository/FilmRepository.cpp
+FilmRepository.h
+E:/Clion_Projects/OOP/Laborator5/src/repository/FilmRepository.h
+
+E:/Clion_Projects/OOP/Laborator5/src/repository/FilmRepository.h
+../domain/Film.h
+E:/Clion_Projects/OOP/Laborator5/src/domain/Film.h
+iostream
+-
+vector
+-
+

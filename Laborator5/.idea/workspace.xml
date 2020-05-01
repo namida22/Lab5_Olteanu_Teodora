@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Laborator5" targetName="Laborator_5_run" />
+      <config projectName="Laborator5" targetName="gtest" />
+      <config projectName="Laborator5" targetName="gmock" />
+      <config projectName="Laborator5" targetName="gmock_main" />
+      <config projectName="Laborator5" targetName="gtest_main" />
+      <config projectName="Laborator5" targetName="Google_Tests_run" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7997a0bb-c7bf-484e-a8cc-1b348d8a8178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7L4KcGi4k2ZEPbXhp1si865nC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Laborator2/Teodora_Olteanu_712_lab2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Clion_Projects\OOP\Laborator5\src\UI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Laborator_5_run">
+    <configuration name="FilmControllerTest.AddFilm" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="FilmControllerTest" TEST_METHOD="AddFilm" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmControllerTest.DeleteFilm" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="FilmControllerTest" TEST_METHOD="DeleteFilm" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmControllerTest.SearchFilm" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="FilmControllerTest" TEST_METHOD="SearchFilm" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedikamenteControllerTest.AddFilm" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="MedikamenteControllerTest" TEST_METHOD="AddFilm" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedikamenteControllerTest.DeleteMedikament" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run" TEST_CLASS="MedikamenteControllerTest" TEST_METHOD="DeleteMedikament" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google_Tests_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Google_Tests_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laborator_5_run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="Laborator_5_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laborator5" RUN_TARGET_NAME="Laborator_5_run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laborator5" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.FilmControllerTest.AddFilm" />
+      <item itemvalue="Google Test.FilmControllerTest.DeleteFilm" />
+      <item itemvalue="Google Test.FilmControllerTest.SearchFilm" />
+      <item itemvalue="Google Test.MedikamenteControllerTest.AddFilm" />
+      <item itemvalue="Google Test.MedikamenteControllerTest.DeleteMedikament" />
+      <item itemvalue="CMake Application.Google_Tests_run" />
+      <item itemvalue="CMake Application.Laborator_5_run" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.FilmControllerTest.DeleteFilm" />
+        <item itemvalue="Google Test.FilmControllerTest.AddFilm" />
+        <item itemvalue="Google Test.FilmControllerTest.SearchFilm" />
+        <item itemvalue="Google Test.MedikamenteControllerTest.DeleteMedikament" />
+        <item itemvalue="Google Test.MedikamenteControllerTest.AddFilm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7997a0bb-c7bf-484e-a8cc-1b348d8a8178" name="Default Changelist" comment="" />
+      <created>1587977992842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587977992842</updated>
+      <workItem from="1587977996149" duration="1315000" />
+      <workItem from="1588077917849" duration="1199000" />
+      <workItem from="1588140992566" duration="828000" />
+      <workItem from="1588151036915" duration="4391000" />
+      <workItem from="1588159084100" duration="4403000" />
+      <workItem from="1588240943014" duration="9888000" />
+      <workItem from="1588256061807" duration="219000" />
+      <workItem from="1588256730315" duration="5860000" />
+      <workItem from="1588263290103" duration="2947000" />
+      <workItem from="1588318595883" duration="320000" />
+      <workItem from="1588319022276" duration="456000" />
+      <workItem from="1588319503819" duration="4610000" />
+      <workItem from="1588324785194" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588319102411">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="456" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1588319102411" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1588320041125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588320041125" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1588324555526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588324555526" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1588324555526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588324555526" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1588324555526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588324555526" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1588324555526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588324555526" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1588323085438">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588323085438" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1588323085438">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588323085438" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1588323085438">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588323085438" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1588323085438">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588323085438" />
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1588324786047">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1588324786047" />
+  </component>
+</project>

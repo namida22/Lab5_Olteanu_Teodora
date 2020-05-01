@@ -1,0 +1,5 @@
+"E:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Clion_Projects\OOP\Laborator5
+-- Found PythonInterp: C:/Users/Teo/AppData/Local/Programs/Python/Python37-32/python.exe (found version "3.7.4") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Clion_Projects/OOP/Laborator5/cmake-build-debug
